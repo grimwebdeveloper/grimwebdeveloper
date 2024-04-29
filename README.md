@@ -1,64 +1,34 @@
-<h1 align="center">Hi 👋, I'm SHARIF IQBAL JAMIL</h1>
-<h3 align="center">A passionate frontend developer from India. Currently, I'm working on different projects to improve my skills.</h3>
+### Hi there 👋, my name is sharif iqbal jamil
+#### I am fron end web developer
+![I am fron end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=grimwebdeveloper&label=Profile%20views&color=009dff&style=flat" alt="grimwebdeveloper" /> </p>
+A passionate frontend developer from India. Currently, I'm working on different projects to improve my skills.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grimwebdeveloper" alt="grimwebdeveloper" /></a> </p>
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-<p align="left"> <a href="https://twitter.com/grimwebdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/grimwebdeveloper?logo=twitter&style=for-the-badge" alt="grimwebdeveloper" /></a> </p>
+- 🔭 I’m currently working on this page.d 
+- 🌱 I’m currently learning backend 
+- 👯 I’m looking to collaborate on any one 
+- 🤔 I’m looking for help with anysfffklsfd 
+- 💬 Ask me about sdfgdfg 
+- 📫 How to reach me: @graimweb.com 
+- 😄 Pronouns: sdf 
+- ⚡ Fun fact: sdfsdf 
 
-- 🔭 I’m currently working on [my portfolio](www.flipkart.com)
 
-- 🌱 I’m currently learning **back-end web development**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/grimwebdeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/grimwebdeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](grimwebdeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/grimwebdeveloper/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/grimwebdeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/grimwebdeveloper/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/grimwebdeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/grimwebdeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/grimwebdeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/grimwebdeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/grimwebdeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/grimwebdeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](grimwebdeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobe.svg' alt='adobe' height='40'>](grimwebdeveloper)  
 
-- 👯 I’m looking to collaborate on [my portfolio](www.flipkart.com)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 🤝 I’m looking for help with [my portfolio](www.flipkart.com)
+[![trophy](https://github-profile-trophy.vercel.app/?username=grimwebdeveloper)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👨‍💻 All of my projects are available at [www.flipkart.com](www.flipkart.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimwebdeveloper)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📝 I regularly write articles on [www.flipkart.com](www.flipkart.com)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=grimwebdeveloper&show_icons=true&count_private=true)  
 
-- 💬 Ask me about **front-end web development**
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/grimwebdeveloper/contributions?format=svg&private=true)  
 
-- 📫 How to reach me **msijmpshaan369@gmail.com**
+![GitHub metrics](https://metrics.lecoq.io/grimwebdeveloper)  
 
-- 📄 Know about my experiences [www.flipkart.com](www.flipkart.com)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=grimwebdeveloper)  
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://dev.to/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://twitter.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://codesandbox.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://kaggle.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://fb.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://instagram.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://dribbble.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.behance.net/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://hashnode.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://medium.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/grimwebdeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grimwebdeveloper&show_icons=true&locale=en&layout=compact" alt="grimwebdeveloper" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grimwebdeveloper&show_icons=true&locale=en" alt="grimwebdeveloper" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grimwebdeveloper&" alt="grimwebdeveloper" /></p>
