@@ -1,7 +1,9 @@
 <div>
 <h1 style="border-bottom: 1px solid black; text-align:center;">Hello 👋, I'm SHARIF IQBAL JAMIL</h1>
 
+<h2>
 <p style="font-size: 1.6rem; font-weight: 700;">A passionate frontend developer from India.<br>Currently, I'm working on different projects to improve my skills</p>
+</h2>
 
 <p style="text-align: left;"> <img src="https://komarev.com/ghpvc/?username=grimdeveloper&label=Profile%20views&color=3b82f6&style=flat" alt="grimwebdeveloper" /> </p>
 
