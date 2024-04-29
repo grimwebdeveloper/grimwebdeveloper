@@ -1,4 +1,6 @@
-<div>
+<div style="padding: 1rem; background: linear-gradient(120deg,#fff1f2,#f0f9ff,#fdf4ff,#fffbeb,#f7fee7,#ecfdf5);
+  background-size: 360% 360%;
+  animation: gradient-animation 30s ease infinite;">
 <h1 style="border-bottom: 1px solid black; text-align:center;">Hello 👋, I'm SHARIF IQBAL JAMIL</h1>
 
 <p style="font-size: 1.4rem;">A passionate frontend developer from India.<br>Currently, I'm working on different projects to improve my skills</p>
@@ -75,7 +77,7 @@
 <hr>
 
 <h2>GitHub Stats</h2>
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem;">
+<div style="display: grid; gap: 1rem;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grimwebdeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=grimwebdeveloper&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=grimwebdeveloper&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1&custom_title=%C2%A0" height="150" alt="stats graph"  />
