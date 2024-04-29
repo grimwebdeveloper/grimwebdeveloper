@@ -82,3 +82,8 @@
 </div>
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grimwebdeveloper&show_icons=true&locale=en&layout=compact" alt="grimwebdeveloper" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grimwebdeveloper&show_icons=true&locale=en" alt="grimwebdeveloper" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grimwebdeveloper&" alt="grimwebdeveloper" /></p>
