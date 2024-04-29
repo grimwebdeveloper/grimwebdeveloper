@@ -20,74 +20,66 @@
 <h2>Skills</h2>
 <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;">
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="72">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="72">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="72">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="72">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="48">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="72">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="48">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9fZzRj7BuQAtuf6RSuqIjWEaai2Vl7sFq2Y6tKq5hA&s" width="72">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9fZzRj7BuQAtuf6RSuqIjWEaai2Vl7sFq2Y6tKq5hA&s" width="48">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="72">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="48">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://www.abhith.net/img/topics/git-icon.svg" width="72">
+<img src="https://www.abhith.net/img/topics/git-icon.svg" width="48">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png" width="72">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" width="58">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="36">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://richcontentdesign.com/wp-content/uploads/2019/10/greensock@2x.png" width="72">
+<img src="https://richcontentdesign.com/wp-content/uploads/2019/10/greensock@2x.png" width="58">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7msbpubiYBTE-4Nru1roCWUG5OXKAteERU03DFGKL6A&s" width="72">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7msbpubiYBTE-4Nru1roCWUG5OXKAteERU03DFGKL6A&s" width="48">
 </a>
 </p>
+<hr>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://dev.to/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://twitter.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://codesandbox.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://kaggle.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://fb.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://instagram.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://dribbble.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.behance.net/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://hashnode.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://medium.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/grimwebdeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/grimwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="grimwebdeveloper" height="30" width="40" /></a>
+<h2>Tools</h2>
+<p style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;">
+<a href="https://getbootstrap.com" target="_blank">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" width="48">
+</a>
 </p>
+<hr>
 
+<h2>Connect with me</h2>
+<p style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;">
+<a href="https://getbootstrap.com" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="48">
+</a>
+</p>
+<hr>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
+<h2>GitHub Stats</h2>
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grimwebdeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=grimwebdeveloper&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=grimwebdeveloper&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1&custom_title=%C2%A0" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grimwebdeveloper&radius=16&theme=minimal&area=true&order=5&hide_title=true" height="150" alt="activity-graph graph"  />
+</div>
+
 </div>
