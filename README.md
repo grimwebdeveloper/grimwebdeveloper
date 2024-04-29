@@ -1,6 +1,4 @@
-<div style="padding: 1rem; background: linear-gradient(120deg,#fff1f2,#f0f9ff,#fdf4ff,#fffbeb,#f7fee7,#ecfdf5);
-  background-size: 360% 360%;
-  animation: gradient-animation 30s ease infinite;">
+<div>
 <h1 style="border-bottom: 1px solid black; text-align:center;">Hello 👋, I'm SHARIF IQBAL JAMIL</h1>
 
 <p style="font-size: 1.4rem;">A passionate frontend developer from India.<br>Currently, I'm working on different projects to improve my skills</p>
@@ -17,7 +15,6 @@
     <li>🌐 See my website at <a href="https://sharifiqbaljamil.com">sharifiqbaljamil.com</a></li>
     <li>📧 Reach me at <a href="mailto:msijmpshaan369@gmail.com">gmail<a></li>
 </ul>
-<hr>
 
 <h2>Skills</h2>
 <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;">
@@ -58,7 +55,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7msbpubiYBTE-4Nru1roCWUG5OXKAteERU03DFGKL6A&s" width="48">
 </a>
 </p>
-<hr>
 
 <h2>Tools</h2>
 <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;">
@@ -66,7 +62,6 @@
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" width="48">
 </a>
 </p>
-<hr>
 
 <h2>Connect with me</h2>
 <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;">
@@ -74,7 +69,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="48">
 </a>
 </p>
-<hr>
 
 <h2>GitHub Stats</h2>
 <div style="display: grid; gap: 1rem;">
