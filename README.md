@@ -15,7 +15,7 @@
     <li>🐂 I'm also a <strong>web designer</strong> and <strong>technical analyst</strong></li>
     <li>🌐 See my portfolio at <a href="https://sharifiqbaljamil.dev">sharifiqbaljamil.dev</a></li>
     <li>🌐 See my website at <a href="https://sharifiqbaljamil.com">sharifiqbaljamil.com</a></li>
-    <li>📧 Reach me at <a href="mailto:msijmpshaan369@gmail.com">gmail<a></li>
+    <li>📧 Reach me at <a href="mailto:msijmpshaan369@gmail.com">msijmpshaan369@gmail.com<a></li>
 </ul>
 
 <h2>Skills</h2>
