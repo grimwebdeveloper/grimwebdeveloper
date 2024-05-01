@@ -72,6 +72,7 @@
 </a>
 </p>
 
+<!-
 <h2>GitHub Stats</h2>
 <div style="display: grid; gap: 1rem;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grimwebdeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -79,5 +80,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=grimwebdeveloper&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1&custom_title=%C2%A0" height="150" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=grimwebdeveloper&radius=16&theme=minimal&area=true&order=5&hide_title=true" height="150" alt="activity-graph graph"  />
 </div>
+-->
 
 </div>
