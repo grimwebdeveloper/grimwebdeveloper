@@ -9,8 +9,8 @@
 
 <ul>
     <li>🤵 I'm currently working on various projects to <strong>improve my front-end web development skills</strong></li>
-    <li>🧠 I'm also learning <strong>back-end web development</strong> </li>
-    <li>👩‍🏫 I'm looking help and guidence with <strong>back-end web development</strong></li>
+    <li>🧠 I'm also learning <strong>MERN stack</strong> </li>
+    <li>👩‍🏫 I'm looking help and guidence with <strong>MERN stack</strong></li>
     <li>🤝 I'm <strong>open to collab with any one</strong></li>
     <li>🐂 I'm also a <strong>web designer</strong> and <strong>technical analyst</strong></li>
     <li>🌐 See my portfolio at <a href="https://sharifiqbaljamil.dev">sharifiqbaljamil.dev</a></li>
