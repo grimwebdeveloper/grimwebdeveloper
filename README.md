@@ -1,8 +1,10 @@
 # Hello 👋, I'm SHARIF IQBAL JAMIL
 
-"Passionate front-end web developer from India, dedicated to crafting captivating user experiences with a blend of creativity and precision."
+***"Passionate front-end web developer from India, dedicated to crafting captivating user experiences with a blend of creativity and precision."***
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grimwebdeveloper&color=brightgreen&style=for-the-badge&label=Profile+Views)
+
+## Intro
 
 - 🤵 I'm currently working on various projects to improve my front-end web development skills
 - 🧠 I'm also learning MERN stack
@@ -33,11 +35,12 @@
 
 ## Tools
 
-- VISUAL STUDIO CODE
-- GOOGLE CHROME
-- MOZILLA FIREFOX
-- CHATGPT
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Connect with me
 
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/grimwebdeveloper/)
+
