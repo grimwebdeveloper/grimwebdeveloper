@@ -19,14 +19,23 @@
 </ul>
 
 <h2>Skills</h2>
-<p>
-  <span style="background-color: dodgerBlue; color: white; padding: 0.5rem">HTML</span>
-  <span style="background-color: dodgerBlue; color: white; padding: 0.5rem">CSS</span>
-  <span style="background-color: dodgerBlue; color: white; padding: 0.5rem">SASS</span>
-  <span style="background-color: dodgerBlue; color: white; padding: 0.5rem">BOOTSTRAP</span>
-  <span style="background-color: dodgerBlue; color: white; padding: 0.5rem">TAILWIND CSS</span>
-  <span style="background-color: dodgerBlue; color: white; padding: 0.5rem">JAVASCRIPT</span>
-</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>SASS</li>
+  <li>BOOTSTRAP</li>
+  <li>TAILWIND CSS</li>
+  <li>JAVASCRIPT</li>
+  <li>REACT</li>
+  <li>REDUX</li>
+  <li>REACT ROUTER</li>
+  <li>GSAP</li>
+  <li>LOCOMOTIVE.JS</li>
+  <li>SHERY.JS</li>
+  <li>GIT</li>
+  <li>GITHUB</li>
+  <li>FIGMA</li>
+</ul>
 
 
 
