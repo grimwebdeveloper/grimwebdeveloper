@@ -4,14 +4,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grimwebdeveloper&color=brightgreen&style=for-the-badge&label=Profile+Views)
 
-🤵 I'm currently working on various projects to improve my front-end web development skills
-🧠 I'm also learning MERN stack
-👩‍🏫 I'm looking help and guidance with MERN stack
-🤝 I'm open to collab with anyone
-🐂 I'm also a web designer and technical analyst
-🌐 See my portfolio at [sharifiqbaljamil.dev](https://sharifiqbaljamil.dev)
-🌐 See my website at [sharifiqbaljamil.com](https://sharifiqbaljamil.com)
-📧 Reach me at [msijmpshaan369@gmail.com](mailto:msijmpshaan369@gmail.com)
+- 🤵 I'm currently working on various projects to improve my front-end web development skills
+- 🧠 I'm also learning MERN stack
+- 👩‍🏫 I'm looking help and guidance with MERN stack
+- 🤝 I'm open to collab with anyone
+- 🐂 I'm also a web designer and technical analyst
+- 🌐 See my portfolio at [sharifiqbaljamil.dev](https://sharifiqbaljamil.dev)
+- 🌐 See my website at [sharifiqbaljamil.com](https://sharifiqbaljamil.com)
+- 📧 Reach me at [msijmpshaan369@gmail.com](mailto:msijmpshaan369@gmail.com)
 
 ## Skills
 
