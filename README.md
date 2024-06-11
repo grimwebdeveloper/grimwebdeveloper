@@ -38,7 +38,10 @@
 </ul>
 
 <h2>Tools</h2>
-* Revenue was off the chart.
+- Revenue was off the chart.
+
++ Revenue was off the chart.
+
 
 <h2>Connect with me</h2>
 
