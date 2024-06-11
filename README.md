@@ -37,66 +37,11 @@
   <li>FIGMA</li>
 </ul>
 
-
-
-
-
-
-<p style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;">
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48">
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48">
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48">
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="48">
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="48">
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9fZzRj7BuQAtuf6RSuqIjWEaai2Vl7sFq2Y6tKq5hA&s" width="48">
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="48">
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://www.abhith.net/img/topics/git-icon.svg" width="48">
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" width="58">
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="36">
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://richcontentdesign.com/wp-content/uploads/2019/10/greensock@2x.png" width="58">
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7msbpubiYBTE-4Nru1roCWUG5OXKAteERU03DFGKL6A&s" width="48">
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" width="48">
-</a>
-</p>
-
 <h2>Tools</h2>
-<p style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;">
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" width="48">
-</a>
-</p>
+* Revenue was off the chart.
 
 <h2>Connect with me</h2>
-<p style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;">
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="48">
-</a>
-</p>
+
 
 <!--
 <h2>GitHub Stats</h2>
