@@ -1,6 +1,6 @@
 # Hello 👋, I'm SHARIF IQBAL JAMIL
 
-#### ***"Passionate front-end web developer from India, dedicated to crafting captivating user experiences with a blend of creativity and precision."***
+***"Passionate front-end web developer from India, dedicated to crafting captivating user experiences with a blend of creativity and precision."***
 
 ![Profile Views](https://komarev.com/ghpvc/?username=grimwebdeveloper&color=brightgreen&style=for-the-badge&label=Profile+Views)
 
