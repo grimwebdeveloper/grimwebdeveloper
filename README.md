@@ -19,6 +19,20 @@
 </ul>
 
 <h2>Skills</h2>
+<p>
+  <span style="background-color: dodgerBlue; color: white; padding: 0.5rem">HTML</span>
+  <span style="background-color: dodgerBlue; color: white; padding: 0.5rem">CSS</span>
+  <span style="background-color: dodgerBlue; color: white; padding: 0.5rem">SASS</span>
+  <span style="background-color: dodgerBlue; color: white; padding: 0.5rem">BOOTSTRAP</span>
+  <span style="background-color: dodgerBlue; color: white; padding: 0.5rem">TAILWIND CSS</span>
+  <span style="background-color: dodgerBlue; color: white; padding: 0.5rem">JAVASCRIPT</span>
+</p>
+
+
+
+
+
+
 <p style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;">
 <a href="https://getbootstrap.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48">
