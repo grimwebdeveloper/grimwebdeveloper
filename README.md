@@ -11,10 +11,10 @@
 - 👩‍🏫 I'm looking help and guidance with MERN stack
 - 🤝 I'm open to collab with anyone
 - 🐂 I'm also a web designer and technical analyst
-<!-- - 🌐 See my portfolio at [sharifiqbaljamil.dev](https://sharifiqbaljamil.dev) -->
-<!-- - 🌐 See my website at [sharifiqbaljamil.com](https://sharifiqbaljamil.com) -->
 - 🌐 See my portfolio at [here](https://grimwebdeveloper.github.io/Portfolio/)
 - 📧 Reach me at [msijmpshaan369@gmail.com](mailto:msijmpshaan369@gmail.com)
+<!-- - 🌐 See my portfolio at [sharifiqbaljamil.dev](https://sharifiqbaljamil.dev) -->
+<!-- - 🌐 See my website at [sharifiqbaljamil.com](https://sharifiqbaljamil.com) -->
 
 ## Skills
 
@@ -24,8 +24,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<!-- ![AJAX](https://img.shields.io/badge/-AJAX-0064A5?style=for-the-badge&logo=ajax&logoColor=white) -->
-<!-- ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white) -->
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -35,6 +33,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<!-- ![AJAX](https://img.shields.io/badge/-AJAX-0064A5?style=for-the-badge&logo=ajax&logoColor=white) -->
+<!-- ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white) -->
 
 ## Tools
 
